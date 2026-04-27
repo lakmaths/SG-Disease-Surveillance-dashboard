@@ -2,7 +2,7 @@
 
 > **Exploratory Data Analysis & Visualisation of Singapore MOH Disease Data (2014–2023)**
 >
-> *Lakshmi C · PhD, Mathematics · Singapore Permanent Resident*
+> *Lakshmi C *
 
 ---
 
